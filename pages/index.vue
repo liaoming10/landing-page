@@ -14,7 +14,7 @@
       <h1 class="text-6xl font-bold text-white/80">Comming Soon!</h1>
     </div>
     <div
-      class="bg-white/30 backdrop-blur-sm p-8 rounded-lg shadow-md text-center border"
+      class="bg-white/30 backdrop-blur-sm p-8 rounded-lg shadow-md text-center border border-white/30"
     >
       <div class="mb-8">
         <h1 class="text-2xl font-bold text-gray-900">
