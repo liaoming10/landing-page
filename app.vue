@@ -1,8 +1,5 @@
 <template>
-  <div class="w-full min-h-screen bg-[url('/bg.jpg')] bg-cover">
-    <CommonNavBar />
+  <NuxtLayout>
     <NuxtPage />
-    <CommonSocialLinks />
-    <CommonFooter />
-  </div>
+  </NuxtLayout>
 </template>
