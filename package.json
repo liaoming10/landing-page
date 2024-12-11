@@ -12,6 +12,8 @@
   "dependencies": {
     "@nuxt/ui": "2.19.2",
     "nuxt": "^3.14.1592",
+    "sass": "^1.82.0",
+    "scss": "^0.2.4",
     "vue": "latest",
     "vue-router": "latest"
   },
