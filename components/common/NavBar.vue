@@ -7,10 +7,10 @@
     >
       <nav class="px-4 py-2">
         <ul class="flex space-x-4 text-gray-300">
-          <li><Nuxtlink to="/" class="hover:text-white">Home</Nuxtlink></li>
-          <li><Nuxtlink class="hover:text-white">Features</Nuxtlink></li>
-          <li><Nuxtlink class="hover:text-white">Parters</Nuxtlink></li>
-          <li><Nuxtlink class="hover:text-white">FAQ</Nuxtlink></li>
+          <li><NuxtLink to="/" class="hover:text-white">Home</NuxtLink></li>
+          <li><NuxtLink to="/links" class="hover:text-white">Links</NuxtLink></li>
+          <li><NuxtLink to="/about" class="hover:text-white">About</NuxtLink></li>
+          <li><NuxtLink to="/news" class="hover:text-white">News</NuxtLink></li>
         </ul>
       </nav>
     </div>

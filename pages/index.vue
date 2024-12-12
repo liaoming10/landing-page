@@ -6,7 +6,7 @@
     <CommonTitlePrimary />
     <FeaturesWaitlistBoxContainer>
       <FeaturesWaitlistBoxHeader />
-      <FeaturesWaitlistBoxDescription />
+      <ContentDoc class="text-gray-600 my-4"/>
       <FeaturesWaitlistBoxJoinButton />
     </FeaturesWaitlistBoxContainer>
   </div>
