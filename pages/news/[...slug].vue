@@ -7,8 +7,8 @@
         color="primary"
         variant="solid"
         label="Button"
-        to="/"
-        >about 回首页！👍</UButton
+        to="/news"
+        >回到 news ！👍</UButton
       >
     </FeaturesWaitlistBoxContainer>
   </div>
