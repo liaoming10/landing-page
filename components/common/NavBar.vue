@@ -11,6 +11,7 @@
           <li><NuxtLink to="/links" class="hover:text-white">Links</NuxtLink></li>
           <li><NuxtLink to="/about" class="hover:text-white">About</NuxtLink></li>
           <li><NuxtLink to="/news" class="hover:text-white">News</NuxtLink></li>
+          <li><NuxtLink to="/kfc" class="hover:text-white">Kfc</NuxtLink></li>
         </ul>
       </nav>
     </div>

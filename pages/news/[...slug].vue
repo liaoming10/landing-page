@@ -19,6 +19,3 @@ definePageMeta({
   layout: "news",
 });
 </script>
-
-<style scoped>
-</style>
