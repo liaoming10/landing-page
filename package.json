@@ -13,6 +13,7 @@
     "@nuxt/content": "2.13.4",
     "@nuxt/ui": "2.19.2",
     "@vercel/analytics": "^1.4.1",
+    "github-markdown-css": "^5.8.1",
     "nuxt": "^3.14.1592",
     "sass": "^1.82.0",
     "scss": "^0.2.4",
