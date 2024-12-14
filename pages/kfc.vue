@@ -31,16 +31,15 @@
               "
             />
           </div>
-          <ContentRendererMarkdown :value="randomArticle">
-            <div class="tags">
-              <span
-                v-for="tag in randomArticle.tags"
-                :key="tag"
-                class="px-2 py-1 mr-2 text-xs font-semibold rounded bg-gray-200 text-gray-800"
-                >{{ tag }}</span
-              >
-            </div>
-          </ContentRendererMarkdown>
+          <ContentRendererMarkdown :value="randomArticle" />
+          <div class="tags mt4">
+            <span
+              v-for="tag in randomArticle.tags"
+              :key="tag"
+              class="label inline-block bg-gray-500 bg-opcity-50 text-gray-300 text-xs px-2 py-1 rounded-full mr-2 mb-2 shadow-sm hover:shadow-md transition-all duration-300 ease-in-out"
+              >#{{ tag }}</span
+            >
+          </div>
         </ContentRenderer>
       </div>
       <button
@@ -101,7 +100,6 @@ const refreshContent = () => {
   animation: spin 1s linear infinite;
   margin: 0 auto;
 }
-
 
 @keyframes spin {
   0% {
